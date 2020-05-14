@@ -1,0 +1,19 @@
+.bg-lime {
+  background: #22a6b3;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+button,
+.btn {
+  border-radius: 0 !important;
+}
+
+header {
+  position: relative;
+}
+nav .navbar {
+  position: absolute;
+}
